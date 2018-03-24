@@ -10,18 +10,18 @@ https://try.github.io/levels/1/challenges/1
 
 I recommend you to go to https://github.com/join and make yourself an account. 
 
-Once you have made the tutorial and have an account I think you are ready to download this project, fro this you just need to execute
-the following code
+Once you have made the tutorial and have an account I think you are ready to download this project, for this you just need to execute
+the following code on the terminal
 
-    git clone https://github.com/diegoseso/php-icandevelop
+    git clone https://github.com/diegoseso/php-icandevelop.git
     
-Now you have this code locally, at this point you will find a Dockerfile, oh my god too many things to learn, what is docker ? 
+Now you have this code locally, at this point you will find a Dockerfile. Oh my god too many things to learn, what is docker ? 
 I think you should read this https://www.docker.com/what-docker
 
-If you have been curious enough I think you now know what a container is. My guess is that you want to install it to go further! 
+If you have been curious enough I think now you know what a container is. My guess is that you want to install it to go further! 
 Install docker on your machine by following https://docs.docker.com/install/
 
-On this project that you should already have on your machine I left setup for you this dockerfile that sets a php server only,
+On this project that you should already have on your machine (remember you cloned it) I left setup for you this dockerfile that sets a php server only,
 before making it work I think you should learn a little bit on how to use docker https://training.play-with-docker.com/dev-landing/
 
 If you rather go to make the server work you just need to run the following code
@@ -46,3 +46,7 @@ Now, assuming you are on the right track what happens when you try to go to
     http://localhost:8001/index.php
     
 My guess is that the index.php downloaded instead of been executed , why is that ? 
+
+## Important 
+
+Do you think I am missing something here ? make a Pull request ! 
