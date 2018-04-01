@@ -19,7 +19,8 @@ Now you have this code locally, at this point you will find a Dockerfile. Oh my 
 I think you should read this https://www.docker.com/what-docker
 
 If you have been curious enough I think now you know what a container is. My guess is that you want to install it to go further! 
-Install docker on your machine by following https://docs.docker.com/install/
+Install docker on your machine by following https://docs.docker.com/install/ . If you are on a windows Machine which model is before to windows 10 you will have to install docker toolbox instead 
+https://docs.docker.com/toolbox/toolbox_install_windows/
 
 On this project that you should already have on your machine (remember you cloned it) I left setup for you this dockerfile that sets a php server only,
 before making it work I think you should learn a little bit on how to use docker https://training.play-with-docker.com/dev-landing/
