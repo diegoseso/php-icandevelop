@@ -14,6 +14,8 @@ Once you have made the tutorial and have an account I think you are ready to dow
 the following code on the terminal
 
     git clone https://github.com/diegoseso/php-icandevelop.git
+
+If you dont have git installed on your machine , you should follow the instructions on this link https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
     
 Now you have this code locally, at this point you will find a Dockerfile. Oh my god too many things to learn, what is docker ? 
 I think you should read this https://www.docker.com/what-docker
